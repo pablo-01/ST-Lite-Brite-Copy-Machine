@@ -38,3 +38,5 @@ Overview:
     7. Prompts to minimize template window
     8. Starts painting circles for each color until all colors are painted 
     
+
+![screengrab](https://github.com/pablo-01/ST-Lite-Brite-Copy-Machine/blob/a3da32daac4fb4a2c4f819d18ebcf9746ff0370e/screengrab.png)
