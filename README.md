@@ -13,8 +13,8 @@ Files included:
 
 Overview:  
     This program uses OpenCV to detect position and color of the
-    circles from the solved Lite Brite board and then paints them
-    on the empty [iamhellsmaster.com](https://iamhellsmaster.com/) board.  
+    circles from the template image (solved Lite Brite board) and then paints them
+    onto the empty board at [iamhellsmaster.com](https://iamhellsmaster.com/). It's a copy machine. 
 
     Solved image has to be aligned with the empty board manually. 
     (automatic alignment is not implemented yet but I'm testing some solutions SIFT/RANSAC).
