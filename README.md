@@ -1,6 +1,10 @@
 # ST-Lite-Brite-Copy-Machine
 
-Sample of the program running: https://youtu.be/OHX3_yAcVGU
+Sample of the program running: https://youtu.be/OHX3_yAcVGU  
+
+It's a quick and hacky implementation.  
+**Feel free to improve it, and if you do, please let me know.  
+I'll be curious to see what you came up with.**
 
 External libraries:
 - numpy
