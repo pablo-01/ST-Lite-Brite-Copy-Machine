@@ -13,7 +13,7 @@ Files included:
 
 Overview:  
     This program uses OpenCV to detect position and color of the
-    circles from the solved Lite Brite board and then paints them  
+    circles from the solved Lite Brite board and then paints them
     on the empty [iamhellsmaster.com](https://iamhellsmaster.com/) board.  
 
     Solved image has to be aligned with the empty board manually. 
